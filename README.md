@@ -20,3 +20,15 @@ download jenkins
 ```
  wget https://get.jenkins.io/war-stable/2.289.1/jenkins.war
  ```
+
+ to run jenkins
+
+ ```
+ java -jar jenkins.war &
+ ```
+
+ open jenkins
+ 
+ ```
+ http://ip:8080/
+```
