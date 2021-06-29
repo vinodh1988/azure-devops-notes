@@ -32,3 +32,13 @@ download jenkins
  ```
  http://ip:8080/
 ```
+
+install apache2
+```
+sudo apt install apache2
+```
+
+change the owner of /var/www
+```
+sudo chown azureuser:azureuser -R /var/www
+```
